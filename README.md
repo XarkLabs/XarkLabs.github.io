@@ -12,7 +12,7 @@ I was first hired to write video games when I was only 17 (initially for the Ata
 
 Being in the game industry for so long has been a totally amazing journey.  Now, after 42 years of full time game development I have retired to focus on retro, neo-retro and FPGA projects (along with other pursuits).
 
-I plan on sharing some stories, knowledge and my projects on [XarkLabs YouTube channel](http://youtube.com/@XarkLabs), check it out.
+See my YouTube channel where I have a few stories and videos [XarkLabs YouTube channel](http://youtube.com/@XarkLabs).
 
 ## Xark's Project Links (Software, Electronics and FPGAs)
 
